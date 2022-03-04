@@ -1,0 +1,11 @@
+body{
+    background-image: url("background.png");
+    background-color: yellow;
+    font-family: 'Comfortaa', cursive;
+}
+
+#heading{
+    font-family: 'Praise', cursive;
+    font-size: 100px;
+    color: white;
+}
